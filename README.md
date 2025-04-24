@@ -12,5 +12,5 @@ I'm passionate about leveraging software to solve real-world problems and contin
 ![Kamanpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=kskaman&show_icons=true&theme=radical)
 
 📫 **Connect with me:**
-- [Personal Site](kskaman.me)
+- [Personal Site](https://kskaman.me/)
 - [LinkedIn](https://www.linkedin.com/in/kamanpreet-singh-b64672119/)
