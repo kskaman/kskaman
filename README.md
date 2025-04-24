@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Kamanpreet Singh
+Hi there! I'm Kamanpreet Singh
 
 I'm passionate about leveraging software to solve real-world problems and continuously enhance my skills. My journey from modeling quantum systems during my M.Sc. to developing user-centric applications reflects my commitment to impactful solutions.
 
