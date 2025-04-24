@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there! 👋 I'm Kamanpreet Singh
 
-<!--
-**kskaman/kskaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about leveraging software to solve real-world problems and continuously enhance my skills. My journey from modeling quantum systems during my M.Sc. to developing user-centric applications reflects my commitment to impactful solutions.
 
-Here are some ideas to get you started:
+**Technologies I work with:**
+- **Frontend:** React, TypeScript, Tailwind CSS, Material UI
+- **Backend:** Node.js, Express
+- **Databases:** SQL, MongoDB, Firebase
+- **Tools:** GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **GitHub Stats:**
+![Kamanpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=kskaman&show_icons=true&theme=radical)
+
+📫 **Connect with me:**
+- [Personal Site](kskaman.me)
+- [LinkedIn](https://www.linkedin.com/in/kamanpreet-singh-b64672119/)
