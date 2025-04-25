@@ -21,3 +21,4 @@ I'm passionate about leveraging software to solve real-world problems and contin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kskaman&layout=compact&hide=jupyter%20notebook&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=kskaman&theme=tokyonight)
