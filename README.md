@@ -5,7 +5,7 @@ I'm passionate about leveraging software to solve real-world problems and contin
 **Technologies I work with:**
 - **Frontend:** React, TypeScript, Tailwind CSS, Material UI
 - **Backend:** Node.js, Express
-- **Databases:** PostGres, MongoDB, Firebase
+- **Databases:** PostGreSQL, MongoDB
 - **Tools:** GitHub Actions, Vercel
 
 
