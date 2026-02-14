@@ -10,7 +10,6 @@ I'm passionate about leveraging software to solve real-world problems and contin
 
 
 **Connect with me:**
-- [Personal Site](https://kskaman.me/)
 - [LinkedIn](https://www.linkedin.com/in/kamanpreet-singh-b64672119/)
 
 
